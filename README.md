@@ -1,2 +1,2 @@
 Hi
-![Fluid4321's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fluid4321)
+![Fluid4321's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluid4321&show_icons=true&theme=tokyonight)
