@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://i.imgur.com/gFJSzkl.png)" />
+  <img src="https://i.imgur.com/gFJSzkl.png"/>
 </p>
 <h1 align="center"> Hey 👋, I'm Will </h1>
 
